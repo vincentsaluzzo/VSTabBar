@@ -3,5 +3,4 @@ VSTabBar
 
 A custom Tab Bar write from scratch
 
-![Simple Example](https://github.com/vincentsaluzzo/VSTabBar/raw/master/SimpleDemo.png "A Simple Example")
-![Funny Example](https://github.com/vincentsaluzzo/VSTabBar/raw/master/FunnyDemo.png "A Funny Example") 
+<img src="https://github.com/vincentsaluzzo/VSTabBar/raw/master/SimpleDemo.png" style="width:50%"> <img src="https://github.com/vincentsaluzzo/VSTabBar/raw/master/FunnyDemo.png" style="width:50%">
