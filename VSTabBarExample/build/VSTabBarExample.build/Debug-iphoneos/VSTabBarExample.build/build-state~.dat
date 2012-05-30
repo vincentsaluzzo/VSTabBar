@@ -1,0 +1,358 @@
+TVSTabBarExample
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/Info.plist VSTabBarExample/VSTabBarExample-Info.plist
+cProcessPCH /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.pth VSTabBarExample/VSTabBarExample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F6AED9D0000000000000110
+t1332407709
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F58A8D800000000000001A7
+t1331210456
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F58A8D800000000000001E5
+t1331210456
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F58A8D900000000003AE430
+t1331210457
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F58A8D9000000000052C940
+t1331210457
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F58A8DA0000000000798EA0
+t1331210458
+s7966368
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m
+c000000004FC5F0AF0000000000000F68
+t1338372271
+s3944
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m
+c000000004FC5EFB800000000000009E7
+t1338372024
+s2535
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m
+c000000004FC5F07200000000000026F9
+t1338372210
+s9977
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarExample-Prefix.pch
+c000000004FC5EFB8000000000000014D
+t1338372024
+s333
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m
+c000000004FC5F09A00000000000000D8
+t1338372250
+s216
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m
+c000000004FC5F1660000000000000386
+t1338372454
+s902
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/en.lproj/InfoPlist.strings
+c000000004FC5EFB8000000000000002D
+t1338372024
+s45
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/en.lproj/VSViewController.xib
+c000000004FC5EFB80000000000001471
+t1338372024
+s5233
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m
+c000000004FC5EFB80000000000000167
+t1338372024
+s359
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app.dSYM
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/Info.plist
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/PkgInfo
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/VSTabBarExample
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/en.lproj/VSViewController.nib
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarExample.LinkFileList
+c000000004FC5F16A0000000000000394
+t1338372458
+s916
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample.xcent
+t2
+s0
+
+N/Users/vincentsaluzzo/Library/MobileDevice/Provisioning Profiles/F07D0CFC-A36E-4621-834F-2BBAC8B3C84C.mobileprovision
+c000000004F9A995C0000000000001CC6
+t1335531868
+s7366
+
+N/var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.pth
+t2
+s0
+
+NVSTabBarExample/VSTabBarExample-Info.plist
+c000000004FC5EFB80000000000000497
+t1338372024
+s1175
+
+CBuild AST from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m
+r0
+
+CBuild AST from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m
+r0
+
+CBuild AST from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m
+r0
+
+CBuild AST from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m
+r0
+
+CBuild AST from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m
+r0
+
+CBuild AST from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies130f3cea2876b541^bc7748ea2876b541^---0#1#0#--18"Check dependencies36"DC90AA49-07D2-4CF3-90EB-78ABF13BEE7F-
+
+CCodeSign /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app
+r0
+
+CCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.620445
+e360065258.684100
+r1
+xCompileC
+xbuild/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.o
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.md6199fea2876b541^9221afea2876b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m0000000000000000^3476"CompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.o VSTabBarExample/UIImage+ImageProcessing.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch -MMD -MT dependencies -MF /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.d --serialize-diagnostics /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/UIImage+ImageProcessing.m -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/UIImage+ImageProcessing.o36"502C1138-A173-43BD-BFF3-E2B952EB1373-
+
+CCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.619823
+e360065258.784787
+r1
+xCompileC
+xbuild/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.o
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.mb3ef9eea2876b541^2ea9d2ea2876b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m0000000000000000^3416"CompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.o VSTabBarExample/VSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch -MMD -MT dependencies -MF /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.d --serialize-diagnostics /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSAppDelegate.m -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSAppDelegate.o36"4F6D0D74-C268-4B24-AD00-6D56441996D1-
+
+CCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.620466
+e360065258.785819
+r0
+xCompileC
+xbuild/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.o
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:8:
+o/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:52:34: error: cannot find protocol declaration for 'MSTabBarDelegate'; did you mean 'VSTabBarDelegate'?
+o@property (nonatomic, assign) id<MSTabBarDelegate> delegate;
+o                                 ^
+o/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:12:11: note: 'VSTabBarDelegate' declared here
+o@protocol VSTabBarDelegate <NSObject>
+o          ^
+o/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:167:82: warning: incompatible pointer types passing 'CGFloat (*)[8]' to parameter of type 'const CGFloat *' (aka 'const float *') [-Wincompatible-pointer-types]
+o        CGGradientRef gradient = CGGradientCreateWithColorComponents(colorSpace, &colorComponents, &colorIndices, 2);
+o                                                                                 ^~~~~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h:51:26: note: passing argument to parameter 'components' here
+o    space, const CGFloat components[], const CGFloat locations[], size_t count)
+o                         ^
+o/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:167:100: warning: incompatible pointer types passing 'CGFloat (*)[2]' to parameter of type 'const CGFloat *' (aka 'const float *') [-Wincompatible-pointer-types]
+o        CGGradientRef gradient = CGGradientCreateWithColorComponents(colorSpace, &colorComponents, &colorIndices, 2);
+o                                                                                                   ^~~~~~~~~~~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h:51:54: note: passing argument to parameter 'locations' here
+o    space, const CGFloat components[], const CGFloat locations[], size_t count)
+o                                                     ^
+o2 warnings and 1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m9c179fea2876b541^14b3d2ea2876b541^-2222"In file included from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:8:/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:52:34: error: cannot find protocol declaration for 'MSTabBarDelegate'; did you mean 'VSTabBarDelegate'?@property (nonatomic, assign) id<MSTabBarDelegate> delegate;                                 ^/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:12:11: note: 'VSTabBarDelegate' declared here@protocol VSTabBarDelegate <NSObject>          ^/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:167:82: warning: incompatible pointer types passing 'CGFloat (*)[8]' to parameter of type 'const CGFloat *' (aka 'const float *') [-Wincompatible-pointer-types]        CGGradientRef gradient = CGGradientCreateWithColorComponents(colorSpace, &colorComponents, &colorIndices, 2);                                                                                 ^~~~~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h:51:26: note: passing argument to parameter 'components' here    space, const CGFloat components[], const CGFloat locations[], size_t count)                         ^/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:167:100: warning: incompatible pointer types passing 'CGFloat (*)[2]' to parameter of type 'const CGFloat *' (aka 'const float *') [-Wincompatible-pointer-types]        CGGradientRef gradient = CGGradientCreateWithColorComponents(colorSpace, &colorComponents, &colorIndices, 2);                                                                                                   ^~~~~~~~~~~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h:51:54: note: passing argument to parameter 'locations' here    space, const CGFloat components[], const CGFloat locations[], size_t count)                                                     ^2 warnings and 1 error generated.3(36%IDEClangDiagnosticActivityLogMessage2@89"Cannot find protocol declaration for 'MSTabBarDelegate'; did you mean 'VSTabBarDelegate'?-360065258#18446744073709551615#0#2(2@102"In file included from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m:8:-360065258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m0000000000000000^7#8#7#8#122#0#30"Apple LLVM compiler 3.1 Notice--2@32"'VSTabBarDelegate' declared here-360065258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h0000000000000000^11#10#11#10#167#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h0000000000000000^51#33#51#33#1455#0#14"Semantic Issue--2@112"Incompatible pointer types passing 'CGFloat (*)[8]' to parameter of type 'const CGFloat *' (aka 'const float *')-360065258#18446744073709551615#0#1(2@47"Passing argument to parameter 'components' here-360065258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@187"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h0000000000000000^50#25#50#25#2082#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m0000000000000000^166#81#166#81#6702#0#14"Semantic Issue1(3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m0000000000000000^166#81#166#97#6702#1#-2@112"Incompatible pointer types passing 'CGFloat (*)[2]' to parameter of type 'const CGFloat *' (aka 'const float *')-360065258#18446744073709551615#0#1(2@46"Passing argument to parameter 'locations' here-360065258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@187"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h0000000000000000^50#53#50#53#2110#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m0000000000000000^166#99#166#99#6720#0#14"Semantic Issue1(3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m0000000000000000^166#99#166#112#6720#1#-0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m0000000000000000^3386"CompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.o VSTabBarExample/VSTabBar.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch -MMD -MT dependencies -MF /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.d --serialize-diagnostics /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.m -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBar.o36"E00816B1-66DA-41CA-BDE2-589DBCED0861-
+
+CCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.620481
+e360065258.668961
+r1
+xCompileC
+xbuild/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.o
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.mf9119fea2876b541^3a41abea2876b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m0000000000000000^3410"CompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.o VSTabBarExample/VSTabBarItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch -MMD -MT dependencies -MF /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.d --serialize-diagnostics /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarItem.m -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSTabBarItem.o36"D46DF049-ED78-455C-B71E-F8CF2245F565-
+
+CCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.620398
+e360065258.683498
+r0
+xCompileC
+xbuild/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.o
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m:10:
+o/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:52:34: error: cannot find protocol declaration for 'MSTabBarDelegate'; did you mean 'VSTabBarDelegate'?
+o@property (nonatomic, assign) id<MSTabBarDelegate> delegate;
+o                                 ^
+o/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:12:11: note: 'VSTabBarDelegate' declared here
+o@protocol VSTabBarDelegate <NSObject>
+o          ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m700a9fea2876b541^a5f6aeea2876b541^-583"In file included from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m:10:/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:52:34: error: cannot find protocol declaration for 'MSTabBarDelegate'; did you mean 'VSTabBarDelegate'?@property (nonatomic, assign) id<MSTabBarDelegate> delegate;                                 ^/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h:12:11: note: 'VSTabBarDelegate' declared here@protocol VSTabBarDelegate <NSObject>          ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@89"Cannot find protocol declaration for 'MSTabBarDelegate'; did you mean 'VSTabBarDelegate'?-360065258#18446744073709551615#0#2(2@111"In file included from /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m:10:-360065258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@101"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m0000000000000000^9#8#9#8#197#0#30"Apple LLVM compiler 3.1 Notice--2@32"'VSTabBarDelegate' declared here-360065258#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h0000000000000000^11#10#11#10#167#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBar.h0000000000000000^51#33#51#33#1455#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@101"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m0000000000000000^3434"CompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.o VSTabBarExample/VSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch -MMD -MT dependencies -MF /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.d --serialize-diagnostics /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSViewController.m -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/VSViewController.o36"D443431D-76C1-47D0-A8C1-58B0BA4EEE8D-
+
+CCompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.619808
+e360065258.682301
+r1
+xCompileC
+xbuild/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.o
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m4af09eea2876b541^1dadaeea2876b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m0000000000000000^3362"CompileC build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.o VSTabBarExample/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos -include /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch -MMD -MT dependencies -MF /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/main.m -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/Objects-normal/armv7/main.o36"DCEFFBAD-79DF-4EEF-9E79-F76EB018616A-
+
+CCompileXIB /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/en.lproj/VSViewController.xib
+r0
+
+CCopyStringsFile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/en.lproj/InfoPlist.strings VSTabBarExample/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist
+s360065258.288523
+e360065258.291867
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.pliste1ed49ea2876b541^11c34aea2876b541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist000000000080d041^871"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app36"93DDBDEB-19C2-43FF-BF92-4E3865C0B0DB-
+
+CGenerateDSYMFile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app.dSYM /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/VSTabBarExample
+r0
+
+CLd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/VSTabBarExample normal armv7
+r0
+
+CProcessInfoPlistFile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/Info.plist VSTabBarExample/VSTabBarExample-Info.plist
+s360065258.288943
+e360065258.293226
+r1
+xProcessInfoPlistFile
+x/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/Info.plist
+xVSTabBarExample/VSTabBarExample-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process VSTabBarExample/VSTabBarExample-Info.plistb8024aea2876b541^88104bea2876b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarExample-Info.plist0000000000000000^838"ProcessInfoPlistFile build/Debug-iphoneos/VSTabBarExample.app/Info.plist VSTabBarExample/VSTabBarExample-Info.plist    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VSTabBarExample/VSTabBarExample-Info.plist -genpkginfo /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/ResourceRules.plist -o /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/Info.plist36"F9D92A4E-9CF9-47D3-8410-8F2F49929845-
+
+CProcessPCH /Users/vincentsaluzzo/Library/Developer/Xcode/DerivedData/VSTabBarExample-hiokdeqbwghepfcnclvciorxutzf/Index/PrecompiledHeaders/VSTabBarExample-Prefix-blljuducacwtwfdbimmrxsjzbmtk_ast/VSTabBarExample-Prefix.pch.pth VSTabBarExample/VSTabBarExample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.pth VSTabBarExample/VSTabBarExample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360065258.305999
+e360065258.612672
+r1
+xProcessPCH
+x/var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.pth
+xVSTabBarExample/VSTabBarExample-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile VSTabBarExample/VSTabBarExample-Prefix.pch6e8b4eea2876b541^cfdb9cea2876b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarExample-Prefix.pch0000000000000000^3408"ProcessPCH /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.pth VSTabBarExample/VSTabBarExample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-generated-files.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-own-target-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-all-target-headers.hmap -iquote /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample-project-headers.hmap -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/include -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources/armv7 -I/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/DerivedSources -F/Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos --serialize-diagnostics /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.dia -c /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/VSTabBarExample/VSTabBarExample-Prefix.pch -o /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/hd/f_ll9gk94zjdzw1g9rn3bym40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/VSTabBarExample-Prefix-glnnnedbvgyyecgbvvtzxfzapbdm/VSTabBarExample-Prefix.pch.d36"E46D3D5E-521C-493B-AFFF-B73EEE01BEE5-
+
+CProcessProductPackaging "/Users/vincentsaluzzo/Library/MobileDevice/Provisioning Profiles/F07D0CFC-A36E-4621-834F-2BBAC8B3C84C.mobileprovision" /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/VSTabBarExample.build/Debug-iphoneos/VSTabBarExample.build/VSTabBarExample.xcent
+r0
+
+CTouch /Users/vincentsaluzzo/Lib/VSTabBar/VSTabBarExample/build/Debug-iphoneos/VSTabBarExample.app
+r0
+
