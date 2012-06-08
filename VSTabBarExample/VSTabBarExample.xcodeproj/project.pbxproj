@@ -22,6 +22,7 @@
 		1F26102A15762B2D007BC4AC /* Basket.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F26102715762B2D007BC4AC /* Basket.png */; };
 		1F26102B15762B2D007BC4AC /* Beer.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F26102815762B2D007BC4AC /* Beer.png */; };
 		1F26102D157631A7007BC4AC /* Money-Bag.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F26102C157631A7007BC4AC /* Money-Bag.png */; };
+		1FF2F071158248CC00FAB601 /* VSTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FF2F070158248CC00FAB601 /* VSTabBarController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,8 @@
 		1F26102715762B2D007BC4AC /* Basket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Basket.png; sourceTree = "<group>"; };
 		1F26102815762B2D007BC4AC /* Beer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Beer.png; sourceTree = "<group>"; };
 		1F26102C157631A7007BC4AC /* Money-Bag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Money-Bag.png"; sourceTree = "<group>"; };
+		1FF2F06F158248CC00FAB601 /* VSTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VSTabBarController.h; path = ../../VSTabBarController.h; sourceTree = "<group>"; };
+		1FF2F070158248CC00FAB601 /* VSTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VSTabBarController.m; path = ../../VSTabBarController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +129,8 @@
 				1F26101F15762ADF007BC4AC /* VSTabBar.m */,
 				1F26102015762ADF007BC4AC /* VSTabBarItem.h */,
 				1F26102115762ADF007BC4AC /* VSTabBarItem.m */,
+				1FF2F06F158248CC00FAB601 /* VSTabBarController.h */,
+				1FF2F070158248CC00FAB601 /* VSTabBarController.m */,
 			);
 			name = VSTabBar;
 			sourceTree = "<group>";
@@ -214,6 +219,7 @@
 				1F26102215762ADF007BC4AC /* UIImage+ImageProcessing.m in Sources */,
 				1F26102315762ADF007BC4AC /* VSTabBar.m in Sources */,
 				1F26102415762ADF007BC4AC /* VSTabBarItem.m in Sources */,
+				1FF2F071158248CC00FAB601 /* VSTabBarController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -323,6 +329,7 @@
 				1F26101115762738007BC4AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
