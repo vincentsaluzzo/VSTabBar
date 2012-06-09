@@ -54,6 +54,8 @@
     self.selectionGradientColor = [UIColor whiteColor];
     self.separatorColor = [UIColor whiteColor];
     self.foregroundColor = [UIColor whiteColor];
+    
+    self.userInteractionEnabled = YES;
 }
 
 // Only override drawRect: if you perform custom drawing.
@@ -70,6 +72,10 @@
     [_backgroundColor setFill];
     CGContextDrawPath(currentContext, kCGPathFill);
     
+    for (UIView* subview in self.subviews) {
+        [subview removeFromSuperview];
+        [subview release];
+    }
     
     if(_items) {
         int count = [_items count];
@@ -226,13 +232,12 @@
         
         _selectedItem = itemTouched;
         _currentItemViewed = _selectedItem;
-        [self setNeedsDisplay];
         
     }
 }
 
 -(void) touchesCancelled:(NSSet *)touches withEvent:(UIEvent *)event {
-    
+    [super touchesCancelled:touches withEvent:event];
 }
 
 -(void) touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
@@ -248,6 +253,12 @@
         [_items release];
     }
     _items = [itemsArray retain];
+    [self setNeedsDisplay];
+}
+
+-(void) selectItem:(NSInteger)index {
+    _selectedItem = index;
+    _currentItemViewed = _selectedItem;
     [self setNeedsDisplay];
 }
 

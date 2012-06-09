@@ -9,7 +9,7 @@
 #import "VSAppDelegate.h"
 
 #import "VSViewController.h"
-
+#import "VSTabBarController.h"
 @implementation VSAppDelegate
 
 @synthesize window = _window;
@@ -26,8 +26,24 @@
 {
     self.window = [[[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]] autorelease];
     // Override point for customization after application launch.
-    self.viewController = [[[VSViewController alloc] initWithNibName:@"VSViewController" bundle:nil] autorelease];
-    self.window.rootViewController = self.viewController;
+    //Uncomments this parts to execute the example of VSTabBar
+//    self.viewController = [[[VSViewController alloc] initWithNibName:@"VSViewController" bundle:nil] autorelease];
+//    self.window.rootViewController = self.viewController;
+    
+    //Uncomment this parts to exectute the example of VSTabBarController
+    VSTabBarController* tabBarController = [[VSTabBarController alloc] initWithNibName:nil bundle:nil];
+    
+    UIViewController* vc1 = [[UIViewController alloc] initWithNibName:nil bundle:nil];
+    [vc1 setView:[[UIView alloc] initWithFrame:self.window.bounds]];
+    vc1.view.backgroundColor = [UIColor redColor];
+    
+    UIViewController* vc2 = [[UIViewController alloc] initWithNibName:nil bundle:nil];
+    [vc2 setView:[[UIView alloc] initWithFrame:self.window.bounds]];
+    vc2.view.backgroundColor = [UIColor greenColor];
+    
+    tabBarController.viewControllers = [NSArray arrayWithObjects:vc1, vc2, nil];
+
+    self.window.rootViewController = tabBarController;
     [self.window makeKeyAndVisible];
     return YES;
 }

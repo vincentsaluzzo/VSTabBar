@@ -54,5 +54,5 @@
 @property (nonatomic, assign) id<VSTabBarDelegate> delegate;
 
 -(void) setItems:(NSArray*)items;
-
+-(void) selectItem:(NSInteger)index;
 @end
